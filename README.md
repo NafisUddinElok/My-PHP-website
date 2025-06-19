@@ -16,9 +16,15 @@ This is a beginner-friendly PHP website project that uses **HTML**, **CSS**, and
 
 ## 📁 Project Structure
 my_php_website/
+
 ├── index.php # Home page
+
 ├── about.php # About page
+
 ├── style.css # CSS for layout and design
+
 └── includes/
+
 ├── header.php # Shared header with navigation
+
 └── footer.php # Shared footer with copyright
